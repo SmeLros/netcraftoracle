@@ -129,7 +129,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Netcraft Oracle, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Netcraft Oracle. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
