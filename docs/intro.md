@@ -9,8 +9,7 @@ Netcraft Oracle（简称NCO） 是一款开源的，在Android端、iOS端、PC�
 
 ## 使用 🚀
 
-点击工具在线链接即可快速使用：
-[NCO-奶块工具箱](/netcraft)
+
 
 ## 功能介绍 📝
 
